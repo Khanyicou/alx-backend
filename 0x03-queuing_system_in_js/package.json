@@ -1,0 +1,21 @@
+{
+  "name": "0x03-queuing_system_in_js",
+  "version": "1.0.0",
+  "description": "This README is just a fast *quick start* document. You can find more detailed documentation at [redis.io](https://redis.io).",
+  "main": "0-redis_client.js",
+  "dependencies": {},
+  "devDependencies": {
+    "@babel/cli": "^7.24.8",
+    "@babel/core": "^7.25.2",
+    "@babel/node": "^7.25.0",
+    "@babel/preset-env": "^7.25.2",
+    "nodemon": "^3.1.4",
+    "redis": "^4.7.0"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
